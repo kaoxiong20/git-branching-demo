@@ -5,7 +5,9 @@ function App() {
     { id: 1, name: "Hamburger", price: "$5.99" },
     { id: 2, name: "Cheeseburger", price: "$6.99" },
     { id: 3, name: "French Fries", price: "$3.99" },
-    { id: 4, name: "Onion Rings", price: "$4.99" }
+    { id: 4, name: "Onion Rings", price: "$4.99" },
+    { id: 5, name: "Cheese Curds", price: "$4.99" },
+    { id: 6, name: "Curly Fries", price: "$4.99" }
   ];
 
   return (
